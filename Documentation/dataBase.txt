@@ -1,0 +1,7 @@
+MySQL serwer
+
+ip: 31.179.186.242
+port: 59590
+user: PJATK
+pass: ADS1234eerwrw
+baza: SOS

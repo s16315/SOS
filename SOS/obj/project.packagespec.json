@@ -17,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp2.2": {
-        "projectReferences": {}
+        "projectReferences": {
+          "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj"
+          }
+        }
       }
     },
     "warningProperties": {

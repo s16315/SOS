@@ -45,6 +45,10 @@
           "target": "Package",
           "version": "[2.2.0, )"
         },
+        "Microsoft.EntityFrameworkCore.Tools": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",

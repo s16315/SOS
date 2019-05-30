@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a01fd3c-b75b-42fa-b583-58229c48bdf4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Contract/SOS.Contract.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/SOS.Contract.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/Debug/netcoreapp2.2/SOS.Contract.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/Debug/netcoreapp2.2/SOS.Contract.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Core/SOS.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/SOS.Core.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Core/obj/Debug/netcoreapp2.2/SOS.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/Debug/netcoreapp2.2/SOS.Core.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" afterDir="false" />
@@ -22,19 +23,17 @@
       <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/SOS.Specs.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/SOS.Specs.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/SOS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/SOS.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOS/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.cache" afterDir="false" />
@@ -80,14 +79,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="404">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
-                <marker date="1559224013214" expanded="true" signature="6:117" ph="..." />
-                <marker date="1559224013214" expanded="true" signature="155:1493" ph="{...}" />
-                <marker date="1559224013214" expanded="true" signature="197:1491" ph="{...}" />
-                <marker date="1559224013214" expanded="true" signature="1214:1234" ph="{...}" />
-                <marker date="1559224013214" expanded="true" signature="1321:1482" ph="{...}" />
+                <marker date="1559227502433" expanded="true" signature="6:148" ph="..." />
+                <marker date="1559227502433" expanded="true" signature="186:1865" ph="{...}" />
+                <marker date="1559227502433" expanded="true" signature="228:1863" ph="{...}" />
+                <marker date="1559227502433" expanded="true" signature="1245:1265" ph="{...}" />
+                <marker date="1559227502433" expanded="true" signature="1352:1513" ph="{...}" />
+                <marker date="1559227502433" expanded="true" signature="1581:1855" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -245,8 +245,8 @@
         <option value="$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" />
         <option value="$PROJECT_DIR$/SOS.Infrastructure/Model/StudentCourse.cs" />
         <option value="$PROJECT_DIR$/SOS.Infrastructure/Entity.cs" />
-        <option value="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" />
         <option value="$PROJECT_DIR$/SOS/Startup.cs" />
+        <option value="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" />
       </list>
     </option>
   </component>
@@ -379,12 +379,20 @@
       <workItem from="1556981667139" duration="466000" />
       <workItem from="1559217518474" duration="606000" />
       <workItem from="1559220983295" duration="1693000" />
-      <workItem from="1559223671255" duration="1298000" />
+      <workItem from="1559223671255" duration="4149000" />
     </task>
+    <task id="LOCAL-00001" summary="migracja v1">
+      <created>1559224999132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559224999132</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22591000" />
+    <option name="totallyTimeSpent" value="25442000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,6 +405,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13116057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -411,10 +420,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.38837922" />
+      <window_info active="true" anchor="bottom" id="NuGet" order="7" visible="true" weight="0.38837922" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.3295107" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3295107" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="REST Client" order="13" />
@@ -434,6 +443,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="migracja v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="migracja v1" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -583,14 +596,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="404">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
-            <marker date="1559224013214" expanded="true" signature="6:117" ph="..." />
-            <marker date="1559224013214" expanded="true" signature="155:1493" ph="{...}" />
-            <marker date="1559224013214" expanded="true" signature="197:1491" ph="{...}" />
-            <marker date="1559224013214" expanded="true" signature="1214:1234" ph="{...}" />
-            <marker date="1559224013214" expanded="true" signature="1321:1482" ph="{...}" />
+            <marker date="1559227502433" expanded="true" signature="6:148" ph="..." />
+            <marker date="1559227502433" expanded="true" signature="186:1865" ph="{...}" />
+            <marker date="1559227502433" expanded="true" signature="228:1863" ph="{...}" />
+            <marker date="1559227502433" expanded="true" signature="1245:1265" ph="{...}" />
+            <marker date="1559227502433" expanded="true" signature="1352:1513" ph="{...}" />
+            <marker date="1559227502433" expanded="true" signature="1581:1855" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,1 @@
+dotnet ef migrations add init -s ./SOS/ --context SOSContext

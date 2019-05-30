@@ -1,5 +1,6 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MySql.Data.EntityFrameworkCore.Extensions;
+using Microsoft.Extensions.DependencyInjection;
 using SOS.Infrastructure.Model;
 
 namespace SOS.Infrastructure.Context
@@ -34,6 +35,11 @@ namespace SOS.Infrastructure.Context
                 "server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;");
         }
 
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddDbContext<SOSContext>(options => options.UseMySQL("DataSource=dbo.SOSApi.db", builder => builder.MigrationsAssembly("SOS.Infrastructure")));
+        }
 
 
     }

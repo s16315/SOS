@@ -32,10 +32,7 @@ namespace SOS.Infrastructure.Context
             optionsBuilder.UseMySql("server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;");
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            
-        }
+
 
     }
 }

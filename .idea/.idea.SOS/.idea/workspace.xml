@@ -2,15 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a01fd3c-b75b-42fa-b583-58229c48bdf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SOS.Infrastructure/Model/StudentCourse.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SOS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOS/SOS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/SOS.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOS/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/Debug/netcoreapp2.2/SOS.Contract.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/Debug/netcoreapp2.2/SOS.Contract.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/Debug/netcoreapp2.2/SOS.Contract.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/Debug/netcoreapp2.2/SOS.Contract.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/SOS.Contract.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Contract/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Contract/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/Debug/netcoreapp2.2/SOS.Core.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/Debug/netcoreapp2.2/SOS.Core.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/Debug/netcoreapp2.2/SOS.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/Debug/netcoreapp2.2/SOS.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/SOS.Core.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/Debug/netcoreapp2.2/SOS.Infrastructure.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/SOS.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/Debug/netcoreapp2.2/SOS.Specs.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/SOS.Specs.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS.Specs/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS.Specs/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/Debug/netcoreapp2.2/SOS.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/SOS.csproj.nuget.g.targets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SOS/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SOS/obj/project.packagespec.json" afterDir="false" />
     </list>
@@ -21,143 +53,135 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
-                  <folding>
-                    <marker date="1556912877657" expanded="true" signature="6:68" ph="..." />
-                    <marker date="1556912877657" expanded="true" signature="106:1534" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="148:1532" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="1165:1185" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="1272:1416" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="1492:1525" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/User.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-                  <folding>
-                    <marker date="1556817650082" expanded="true" signature="34:257" ph="{...}" />
-                    <marker date="1556817650082" expanded="true" signature="67:255" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="35" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="35" />
-                  <folding>
-                    <marker date="1556911568526" expanded="true" signature="69:252" ph="{...}" />
-                    <marker date="1556911568526" expanded="true" signature="103:250" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Administrator.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-                  <folding>
-                    <marker date="1556881722519" expanded="true" signature="34:97" ph="{...}" />
-                    <marker date="1556881722519" expanded="true" signature="74:95" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Person.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
-                  <folding>
-                    <marker date="1556817950086" expanded="true" signature="34:351" ph="{...}" />
-                    <marker date="1556817950086" expanded="true" signature="69:349" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="570">
-                  <caret line="38" selection-start-line="38" selection-end-line="38" />
-                  <folding>
-                    <marker date="1556912877657" expanded="true" signature="6:68" ph="..." />
-                    <marker date="1556912877657" expanded="true" signature="106:1534" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="148:1532" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="1165:1185" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="1272:1416" ph="{...}" />
-                    <marker date="1556912877657" expanded="true" signature="1492:1525" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Course.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-                  <folding>
-                    <marker date="1556878738599" expanded="true" signature="69:392" ph="{...}" />
-                    <marker date="1556878738599" expanded="true" signature="104:390" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Course.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="49" />
+              <folding>
+                <marker date="1556958665379" expanded="true" signature="69:392" ph="{...}" />
+                <marker date="1556958665379" expanded="true" signature="104:390" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/DailyPlan.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <marker date="1556958665380" expanded="false" signature="6:47" ph="..." />
+                <marker date="1556958665380" expanded="true" signature="83:251" ph="{...}" />
+                <marker date="1556958665380" expanded="true" signature="121:249" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+              <folding>
+                <marker date="1556980988114" expanded="false" signature="6:68" ph="..." />
+                <marker date="1556980988114" expanded="true" signature="106:1427" ph="{...}" />
+                <marker date="1556980988114" expanded="true" signature="148:1425" ph="{...}" />
+                <marker date="1556980988114" expanded="true" signature="1165:1185" ph="{...}" />
+                <marker date="1556980988114" expanded="true" signature="1272:1416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/StudentCourse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+              <folding>
+                <marker date="1556982134398" expanded="true" signature="69:309" ph="{...}" />
+                <marker date="1556982134398" expanded="true" signature="111:307" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SOS/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <marker date="1556958665442" expanded="false" signature="6:255" ph="..." />
+                <marker date="1556958665442" expanded="true" signature="270:597" ph="{...}" />
+                <marker date="1556958665442" expanded="true" signature="297:595" ph="{...}" />
+                <marker date="1556958665442" expanded="true" signature="350:424" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Address.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <folding>
+                <marker date="1556958665374" expanded="true" signature="34:256" ph="{...}" />
+                <marker date="1556958665374" expanded="true" signature="70:254" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Person.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1556958665386" expanded="true" signature="34:351" ph="{...}" />
+                <marker date="1556958665386" expanded="true" signature="69:349" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SOS.Specs/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOS.Core/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/YearlyPlan.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/WeeklyPlan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Contract/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/School.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/DailyPlan.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/StudentCourse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Course.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/ClassroomDailyPlan.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Classroom.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Person.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Lesson.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Address.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Entity.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/User.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Role.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Language.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Instructor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOS/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Course.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Specs/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Contract/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/OfficeWorker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Person.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Administrator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/School.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Lesson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Language.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Role.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/WeeklyPlan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Instructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/YearlyPlan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/OfficeWorker.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -193,14 +217,14 @@
         <option value="$PROJECT_DIR$/SOS/Startup.cs" />
         <option value="$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" />
         <option value="$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs" />
+        <option value="$PROJECT_DIR$/SOS.Infrastructure/Model/StudentCourse.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="28" />
-    <option name="y" value="12" />
-    <option name="width" value="1889" />
-    <option name="height" value="1000" />
+    <option name="x" value="115" />
+    <option name="width" value="1207" />
+    <option name="height" value="742" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -210,42 +234,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SOS" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SOS" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SOS" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SOS" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SOS.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SOS" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SOS.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Context" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="SOS" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="SOS.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Model" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -254,6 +247,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -275,10 +269,6 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -290,10 +280,6 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -314,11 +300,15 @@
       <workItem from="1556816322501" duration="4090000" />
       <workItem from="1556878128071" duration="3852000" />
       <workItem from="1556882459554" duration="7665000" />
+      <workItem from="1556958741347" duration="298000" />
+      <workItem from="1556979337886" duration="2166000" />
+      <workItem from="1556981667139" duration="466000" />
+      <workItem from="1559217518474" duration="606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16064000" />
+    <option name="totallyTimeSpent" value="19600000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,11 +320,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="28" y="12" width="1889" height="1000" extended-state="0" />
+    <frame x="115" y="0" width="1207" height="742" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22689995" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2798605" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -342,7 +334,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" visible="true" weight="0.11811024" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.31962025" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
@@ -357,11 +349,14 @@
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -374,19 +369,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SOS.Specs/Class1.cs" />
-    <entry file="file://$PROJECT_DIR$/SOS.Specs/UnitTest1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <marker date="1556816375926" expanded="true" signature="6:26" ph="..." />
-            <marker date="1556816375926" expanded="true" signature="47:153" ph="{...}" />
-            <marker date="1556816375926" expanded="true" signature="76:151" ph="{...}" />
-            <marker date="1556816375926" expanded="true" signature="125:145" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SOS.Specs/UnitTest1.cs" />
     <entry file="file://$PROJECT_DIR$/SOS.Core/Class1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -408,110 +391,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/YearlyPlan.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <marker date="1556880154555" expanded="true" signature="6:47" ph="..." />
-            <marker date="1556880154555" expanded="true" signature="83:236" ph="{...}" />
-            <marker date="1556880154555" expanded="true" signature="122:234" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/WeeklyPlan.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <marker date="1556880162367" expanded="true" signature="69:227" ph="{...}" />
-            <marker date="1556880162367" expanded="true" signature="108:225" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Role.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <marker date="1556819127798" expanded="true" signature="34:122" ph="{...}" />
-            <marker date="1556819127798" expanded="true" signature="67:120" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Language.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <marker date="1556819127824" expanded="true" signature="34:126" ph="{...}" />
-            <marker date="1556819127824" expanded="true" signature="71:124" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Address.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <marker date="1556817357034" expanded="true" signature="34:256" ph="{...}" />
-            <marker date="1556817357034" expanded="true" signature="70:254" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/YearlyPlan.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/WeeklyPlan.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Role.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Language.cs" />
     <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Plan.cs" />
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Classroom.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding>
-            <marker date="1556879781780" expanded="true" signature="34:167" ph="{...}" />
-            <marker date="1556879781780" expanded="true" signature="72:165" ph="{...}" />
-            <marker date="1556879781780" expanded="true" signature="105:159" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/ClassroomDailyPlan.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <marker date="1556879781762" expanded="false" signature="6:47" ph="..." />
-            <marker date="1556879781762" expanded="true" signature="83:879" ph="{...}" />
-            <marker date="1556879781762" expanded="true" signature="130:877" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/DailyPlan.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <marker date="1556881217263" expanded="true" signature="6:47" ph="..." />
-            <marker date="1556881217263" expanded="true" signature="83:251" ph="{...}" />
-            <marker date="1556881217263" expanded="true" signature="121:249" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Lesson.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <marker date="1556879339829" expanded="true" signature="49:239" ph="{...}" />
-            <marker date="1556879339829" expanded="true" signature="84:237" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Classroom.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/ClassroomDailyPlan.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Lesson.cs" />
     <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Entity.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -542,105 +429,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/OfficeWorker.cs">
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/OfficeWorker.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Instructor.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/School.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Administrator.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/User.cs" />
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Course.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="49" />
           <folding>
-            <marker date="1556882264793" expanded="true" signature="34:96" ph="{...}" />
-            <marker date="1556882264793" expanded="true" signature="73:94" ph="{...}" />
+            <marker date="1556958665379" expanded="true" signature="69:392" ph="{...}" />
+            <marker date="1556958665379" expanded="true" signature="104:390" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Instructor.cs">
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/DailyPlan.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
-            <marker date="1556819227207" expanded="true" signature="69:174" ph="{...}" />
-            <marker date="1556819227207" expanded="true" signature="106:172" ph="{...}" />
+            <marker date="1556958665380" expanded="false" signature="6:47" ph="..." />
+            <marker date="1556958665380" expanded="true" signature="121:249" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/School.cs">
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/StudentCourse.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding>
-            <marker date="1556882264793" expanded="true" signature="69:448" ph="{...}" />
-            <marker date="1556882264793" expanded="true" signature="104:446" ph="{...}" />
+            <marker date="1556982134398" expanded="true" signature="69:309" ph="{...}" />
+            <marker date="1556982134398" expanded="true" signature="111:307" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Administrator.cs">
+    <entry file="file://$PROJECT_DIR$/SOS/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <marker date="1556881722519" expanded="true" signature="34:97" ph="{...}" />
-            <marker date="1556881722519" expanded="true" signature="74:95" ph="{...}" />
+            <marker date="1556958665442" expanded="false" signature="6:255" ph="..." />
+            <marker date="1556958665442" expanded="true" signature="270:597" ph="{...}" />
+            <marker date="1556958665442" expanded="true" signature="297:595" ph="{...}" />
+            <marker date="1556958665442" expanded="true" signature="350:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1556958665374" expanded="true" signature="70:254" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Person.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="68">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <marker date="1556817950086" expanded="true" signature="34:351" ph="{...}" />
-            <marker date="1556817950086" expanded="true" signature="69:349" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Student.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <marker date="1556911568526" expanded="true" signature="69:252" ph="{...}" />
-            <marker date="1556911568526" expanded="true" signature="103:250" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/Course.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <marker date="1556878738599" expanded="true" signature="69:392" ph="{...}" />
-            <marker date="1556878738599" expanded="true" signature="104:390" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Model/User.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <marker date="1556817650082" expanded="true" signature="34:257" ph="{...}" />
-            <marker date="1556817650082" expanded="true" signature="67:255" ph="{...}" />
+            <marker date="1556958665386" expanded="true" signature="69:349" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SOS.Infrastructure/Context/SOSContext.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        <state relative-caret-position="187">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
-            <marker date="1556912877657" expanded="true" signature="6:68" ph="..." />
-            <marker date="1556912877657" expanded="true" signature="106:1534" ph="{...}" />
-            <marker date="1556912877657" expanded="true" signature="148:1532" ph="{...}" />
-            <marker date="1556912877657" expanded="true" signature="1165:1185" ph="{...}" />
-            <marker date="1556912877657" expanded="true" signature="1272:1416" ph="{...}" />
-            <marker date="1556912877657" expanded="true" signature="1492:1525" ph="{...}" />
+            <marker date="1556980988114" expanded="false" signature="6:68" ph="..." />
+            <marker date="1556980988114" expanded="true" signature="106:1427" ph="{...}" />
+            <marker date="1556980988114" expanded="true" signature="148:1425" ph="{...}" />
+            <marker date="1556980988114" expanded="true" signature="1165:1185" ph="{...}" />
+            <marker date="1556980988114" expanded="true" signature="1272:1416" ph="{...}" />
           </folding>
         </state>
       </provider>

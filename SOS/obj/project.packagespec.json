@@ -1,25 +1,22 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS\\SOS.csproj",
+    "projectUniqueName": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS\\SOS.csproj",
     "projectName": "SOS",
-    "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS\\SOS.csproj",
-    "outputPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS\\obj\\",
+    "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS\\SOS.csproj",
+    "outputPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Users\\Tomek\\.dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
-    "sources": {
-      "https://api.nuget.org/v3/index.json": {}
-    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj": {
-            "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj"
+          "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj"
           }
         }
       }

@@ -1,20 +1,17 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Specs\\SOS.Specs.csproj",
+    "projectUniqueName": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Specs\\SOS.Specs.csproj",
     "projectName": "SOS.Specs",
-    "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Specs\\SOS.Specs.csproj",
-    "outputPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Specs\\obj\\",
+    "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Specs\\SOS.Specs.csproj",
+    "outputPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Specs\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Users\\Tomek\\.dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
-    "sources": {
-      "https://api.nuget.org/v3/index.json": {}
-    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}

@@ -21,12 +21,14 @@ namespace SOS.Infrastructure.Context
         public DbSet<Role> Role { get; set; }
         public DbSet<School> School { get; set; }
         public DbSet<Student> Student { get; set; }
+        public DbSet<StudentCourse> StudentsCourses { get; set; }        
         public DbSet<User> User { get; set; }
         public DbSet<WeeklyPlan> WeeklyPlan { get; set; }
         public DbSet<YearlyPlan> YearlyPlan { get; set; }
-        
+
         public SOSContext(DbContextOptions options) : base(options)
         {
+            //options.UseMySQL(connection, b => b.MigrationsAssembly("SOS"));
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -41,6 +43,10 @@ namespace SOS.Infrastructure.Context
             services.AddDbContext<SOSContext>(options => options.UseMySQL("DataSource=dbo.SOSApi.db", builder => builder.MigrationsAssembly("SOS.Infrastructure")));
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            //modelBuilder.Entity<Student>().HasMany<Course>().
+        }
 
     }
 }

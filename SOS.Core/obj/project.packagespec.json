@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Core\\SOS.Core.csproj",
+    "projectUniqueName": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Core\\SOS.Core.csproj",
     "projectName": "SOS.Core",
-    "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Core\\SOS.Core.csproj",
-    "outputPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Core\\obj\\",
+    "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Core\\SOS.Core.csproj",
+    "outputPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Core\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12,6 +12,9 @@
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}
@@ -31,6 +34,14 @@
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "MySql.Data.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[8.0.16, )"
+        },
+        "MySql.Data.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[8.0.16, )"
         }
       },
       "imports": [

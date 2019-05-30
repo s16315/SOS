@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS\\SOS.csproj",
+    "projectUniqueName": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS\\SOS.csproj",
     "projectName": "SOS",
-    "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS\\SOS.csproj",
-    "outputPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS\\obj\\",
+    "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS\\SOS.csproj",
+    "outputPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12,11 +12,14 @@
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
-          "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj": {
-            "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj"
+          "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj"
           }
         }
       }
@@ -42,15 +45,19 @@
           "target": "Package",
           "version": "[2.2.0, )"
         },
-        "Microsoft.EntityFrameworkCore": {
-          "target": "Package",
-          "version": "[3.0.0-preview4.19216.3, )"
-        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "MySql.Data.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[8.0.16, )"
+        },
+        "MySql.Data.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[8.0.16, )"
         }
       },
       "imports": [

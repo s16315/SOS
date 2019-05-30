@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Specs\\SOS.Specs.csproj",
+    "projectUniqueName": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Specs\\SOS.Specs.csproj",
     "projectName": "SOS.Specs",
-    "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Specs\\SOS.Specs.csproj",
-    "outputPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Specs\\obj\\",
+    "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Specs\\SOS.Specs.csproj",
+    "outputPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Specs\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12,6 +12,9 @@
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}
@@ -26,15 +29,19 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
-        "Microsoft.NET.Test.Sdk": {
-          "target": "Package",
-          "version": "[15.9.0, )"
-        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
+        },
+        "MySql.Data.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[8.0.16, )"
+        },
+        "MySql.Data.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[8.0.16, )"
         },
         "xunit": {
           "target": "Package",

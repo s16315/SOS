@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj",
+    "projectUniqueName": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj",
     "projectName": "SOS.Infrastructure",
-    "projectPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj",
-    "outputPath": "C:\\Users\\Tomek\\Documents\\PJWSTK\\DOT\\SOS\\SOS.Infrastructure\\obj\\",
+    "projectPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\SOS.Infrastructure.csproj",
+    "outputPath": "C:\\Users\\Tomek\\RiderProjects\\SOS\\SOS.Infrastructure\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12,6 +12,9 @@
     "originalTargetFrameworks": [
       "netcoreapp2.2"
     ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {}
@@ -26,23 +29,19 @@
   "frameworks": {
     "netcoreapp2.2": {
       "dependencies": {
-        "Microsoft.EntityFrameworkCore": {
-          "target": "Package",
-          "version": "[3.0.0-preview4.19216.3, )"
-        },
-        "Microsoft.EntityFrameworkCore.Design": {
-          "target": "Package",
-          "version": "[3.0.0-preview4.19216.3, )"
-        },
         "Microsoft.NETCore.App": {
           "suppressParent": "All",
           "target": "Package",
           "version": "[2.2.0, )",
           "autoReferenced": true
         },
-        "Pomelo.EntityFrameworkCore.MySql.Design": {
+        "MySql.Data.EntityFrameworkCore": {
           "target": "Package",
-          "version": "[1.1.2, )"
+          "version": "[8.0.16, )"
+        },
+        "MySql.Data.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[8.0.16, )"
         }
       },
       "imports": [

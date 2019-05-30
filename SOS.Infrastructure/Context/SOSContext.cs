@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using MySql.Data.EntityFrameworkCore.Extensions;
 using SOS.Infrastructure.Model;
 
 namespace SOS.Infrastructure.Context
@@ -29,7 +30,8 @@ namespace SOS.Infrastructure.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;");
+            optionsBuilder.UseMySQL(
+                "server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;");
         }
 
 

@@ -28,18 +28,17 @@ namespace SOS.Infrastructure.Context
 
         public SOSContext(DbContextOptions options) : base(options)
         {
-            //options.UseMySQL(connection, b => b.MigrationsAssembly("SOS"));
+
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySQL(
-                "server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;");
+
         }
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<SOSContext>(options => options.UseMySQL("DataSource=dbo.SOSApi.db", builder => builder.MigrationsAssembly("SOS.Infrastructure")));
         }
 

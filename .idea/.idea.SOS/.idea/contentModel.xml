@@ -60,6 +60,11 @@
           <e p="SOSContext.cs" t="Include" />
         </e>
         <e p="Entity.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190601102142_MigrationName.cs" t="Include" />
+          <e p="20190601102142_MigrationName.Designer.cs" t="Include" />
+          <e p="SOSContextModelSnapshot.cs" t="Include" />
+        </e>
         <e p="Model" t="Include">
           <e p="Address.cs" t="Include" />
           <e p="Administrator.cs" t="Include" />
@@ -86,6 +91,12 @@
               <e p="SOS.Infrastructure.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="ClassroomRepository.cs" t="Include" />
+          <e p="IClassroomRepository.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+          <e p="IUserRepository.cs" t="Include" />
         </e>
         <e p="SOS.Infrastructure.csproj" t="IncludeRecursive" />
       </e>

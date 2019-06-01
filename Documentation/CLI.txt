@@ -1,0 +1,18 @@
+dotnet ef migrations add init -s ./SOS/ --context SOSContext
+wykonaj w SOS.Infrastructure
+dotnet ef --startup-project ../SOS migrations add MigrationName -c SOSContext
+
+ To undo this action, use 'ef migrations remove'
+
+!!!
+SQL Script
+CREATE TABLE `__EFMigrationsHistory` 
+( 
+    `MigrationId` nvarchar(150) NOT NULL, 
+    `ProductVersion` nvarchar(32) NOT NULL, 
+     PRIMARY KEY (`MigrationId`) 
+);
+
+dotnet ef database update -s ../SOS/ --context SOSContext
+
+

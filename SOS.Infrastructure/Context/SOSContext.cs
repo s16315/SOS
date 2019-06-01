@@ -1,4 +1,6 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using SOS.Infrastructure.Model;
 
 namespace SOS.Infrastructure.Context
@@ -19,20 +21,31 @@ namespace SOS.Infrastructure.Context
         public DbSet<Role> Role { get; set; }
         public DbSet<School> School { get; set; }
         public DbSet<Student> Student { get; set; }
+        public DbSet<StudentCourse> StudentsCourses { get; set; }        
         public DbSet<User> User { get; set; }
         public DbSet<WeeklyPlan> WeeklyPlan { get; set; }
         public DbSet<YearlyPlan> YearlyPlan { get; set; }
-        
+
         public SOSContext(DbContextOptions options) : base(options)
         {
+
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;");
+            optionsBuilder.UseMySQL("server=31.179.186.242;port=59590;database=SOS;user id=PJATK;password=ADS1234eerwrw");
         }
 
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddDbContext<SOSContext>(options => options.UseMySQL("DataSource=dbo.SOSApi.db", builder => builder.MigrationsAssembly("SOS.Infrastructure")));
+        }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            //modelBuilder.Entity<Student>().HasMany<Course>().
+        }
 
     }
 }

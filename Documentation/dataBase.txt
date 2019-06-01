@@ -7,5 +7,5 @@ pass: ADS1234eerwrw
 baza: SOS
 
 
-
-server=31.179.186.242;user id=PJATK;password=ADS1234eerwrw;port=59590;database=SOS;
+"server=localhost;database=library;user=user;password=password"
+"server=31.179.186.242;port=59590;database=SOS;user id=PJATK;password=ADS1234eerwrw"

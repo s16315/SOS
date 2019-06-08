@@ -2,7 +2,7 @@ namespace SOS.Infrastructure.Model
 {
     public class Classroom : Entity
     {
-        public string name
+        public string Name
         {
             get;
             set;

@@ -2,7 +2,7 @@ using SOS.Infrastructure.Model;
 
 namespace SOS.Infrastructure.Repositories
 {
-    public interface IUserRepository : IRepository<User>
+    public interface IRolesRepository : IRepository<Role>
     {
         
     }

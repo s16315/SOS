@@ -8,7 +8,6 @@ namespace SOS.Infrastructure.Model
         public Instructor Instructor { get; set; }
         public int MaxStudents { get; set; }
         public float Cost { get; set; }
-        //public List<Student>Students{ get; set; }
         public Language Language { get; set; }
     }
 }

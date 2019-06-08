@@ -16,3 +16,7 @@ CREATE TABLE `__EFMigrationsHistory`
 dotnet ef database update -s ../SOS/ --context SOSContext
 
 
+migracje-aktualizacja
+relacje -> klucze, kolekcje
+await
+

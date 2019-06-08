@@ -9,6 +9,7 @@ namespace SOS.Infrastructure.Repositories
         Task<TEntity> GetById(long id);
         Task Add(TEntity entity);
         Task Update(TEntity entity);
+        Task TrueDelete(TEntity entity);
         Task Delete(long id);
     }
 }
